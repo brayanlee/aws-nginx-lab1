@@ -1,21 +1,21 @@
 {
-  "name": "aws-exercise-a",
+  "name": "aws-nginx-lab1",
   "version": "1.0.0",
-  "description": "AWS exercise project A",
+  "description": "AWS nginx web-server project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deopard/aws-exercise-a.git"
+    "url": "git+https://github.com/brayanlee/aws-nginx-lab1.git"
   },
-  "author": "Tom Kim",
+  "author": "Kevin.lee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deopard/aws-exercise-a/issues"
+    "url": "https://github.com/brayanlee/aws-nginx-lab1/issues"
   },
-  "homepage": "https://github.com/deopard/aws-exercise-a#readme",
+  "homepage": "https://github.com/brayanlee/aws-nginx-lab1#readme",
   "dependencies": {
     "express": "^4.16.3"
   }
